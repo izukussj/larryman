@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Larryman",
+  "version": "1.0",
+  "description": "Une extension Chrome innovante qui intègre un chatbot intelligent, capable de répondre dynamiquement à la sélection de texte sur n'importe quelle page web. Utilisez Larryman pour obtenir des réponses instantanées, des informations et de l'assistance directement dans votre navigateur.",
+  "permissions": ["contextMenus", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "globalGoogle16.png",
+    "48": "globalGoogle48.png",
+    "128": "globalGoogle128.png"
+  }
+}
