@@ -4,11 +4,11 @@ Larryman est une extension Chrome qui intègre un chatbot intelligent. Capable d
 
 ## Fonctionnalités
 
-- **Définition de Termes** : Obtenez des définitions instantanées pour le texte sélectionné.
-- **Réponses Instantanées** : Posez des questions et recevez des réponses en temps réel.
-- **Traduction Dynamique** : Traduisez le texte entre le français et l'anglais directement.
-- **Conversation Intelligente** : Interactions basées sur le contexte du texte sélectionné.
-- **Interface Utilisateur Intuitive** : Conception épurée et facile à naviguer.
+- **Définition de termes** : Obtenez des définitions instantanées pour le texte sélectionné.
+- **Réponses instantanées** : Posez des questions et recevez des réponses en temps réel.
+- **Traduction dynamique** : Traduisez le texte entre le français et l'anglais directement.
+- **Conversation intelligente** : Interactions basées sur le contexte du texte sélectionné.
+- **Interface utilisateur intuitive** : Conception épurée et facile à naviguer.
 
 ## Débuter
 
